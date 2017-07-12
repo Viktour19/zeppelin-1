@@ -107,12 +107,12 @@ mapMobileCenterCoordinates: "1.9445098,30.0890972"
 
 # Venue Block
 venueBlockTitle: "Venue"
-venueBigImage: "venue_0.jpg"
-venueSmallImage1: "venue_1.jpg"
-venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueBigImage: "i.jpg"
+venueSmallImage1: "ii.jpg"
+venueSmallImage2: "iii.jpg"
+venueSmallImage3: "iv.jpg"
+venueTitle: "CMU-Africa Auditorium"
+venueFeatures: ["1 huge projector screen", "Excellent Ambiene", "Fast Internet", "Red room :)"]
 
 # Tweets Feed Block
 # tweetsFeedImage: "twitter-feed.jpg"
