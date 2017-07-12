@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "CMU Africa Datascience club AI Bootcamp"
 email: "devfest@gdg.org.ua"
 description: "The AI Bootcamp is an handons on dive into machine learning and deeplearning"
-baseurl: "/zeppelin"
+baseurl: "/aibootcamp"
 url: "https://viktour19.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
@@ -53,7 +53,7 @@ navigationLinks:
 bottomNavigationLinks:
  - {link: "https://goo.gl/forms/Zkw3CVzWzRl95DLv2", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "https://goo.gl/forms/Zkw3CVzWzRl95DLv2", text: "Become a speaker"}
+ - {link: "https://goo.gl/forms/7sar4Q9bKuMfedu93", text: "Register to participate"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -70,7 +70,7 @@ aboutTitle: "About the AI Bootcamp"
 aboutBlock:
  - {title: "Sessions", image: "conference.jpg", text: "Handson machine learning and deeplearning using scikit-learn and tensorflow. The sessions are geared to get you from ground to ninja in the most fun way possible!" }
  - {title: "Speakers", image: "workshop.jpg", text: "Industry and Academic experts would be around to give insights into the amazing world of AI "}
- - {title: "Demo Day", image: "hackathon.jpg", text: "After the 8 day long learning and fun, demo day is the time to show off the cool projects you'll work on. Cool prizes to be won as well!'" }
+ - {title: "Demo Day", image: "hackathon.jpg", text: "After the 8 day long learning and fun, demo day is the time to show off the cool projects you'll work on. Cool prizes to be won as well!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -131,47 +131,19 @@ venueFeatures: ["1 huge projector screen", "Excellent Ambience", "Fast Internet"
 # subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
 # subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
-# Tickets Block
-# ticketsTitle: "Pricetable"
-# ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
-# ticketsOffers:
-#  -
-#   name: "Early Bird"
-#   price: "350"
-#   priceCurrency: "UAH"
-#   ticketsNumber: "150"
-#   ribbon: "-5%"
-#   buyButtonLink: "http://dfua.ticketforevent.com/"
-#   buyButtonText: "Buy Now"
-#   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-#   validFrom: "2014-08-25T10:00"
-#   validThrough: "2014-09-30T23:59"
-#  -
-#   name: "Last Chance"
-#   price: "450"
-#   priceCurrency: "UAH"
-#   ticketsNumber: "100"
-#   ribbon: "-20%"
-#   featured: true
-#   buyButtonLink: "http://dfua.ticketforevent.com/"
-#   buyButtonText: "Buy Now"
-#   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-#   validFrom: "2014-10-01T00:00"
-#   validThrough: "2014-10-23T23:59"
-#   disabled: true
-#  -
-#   name: "Student"
-#   price: "200"
-#   priceCurrency: "UAH"
-#   ticketsNumber: "50"
-#   buyButtonLink: "http://dfua.ticketforevent.com/"
-#   buyButtonText: "Buy Now"
-#   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-#   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-#   validFrom: "2014-08-20T10:00"
-#   validThrough: "2014-10-23T23:59"
-#   soldOut: true
-#   soldOutText: "Sold Out"
+Tickets Block
+ticketsTitle: "Tickets"
+ticketsInfo: "Tickets grant access to all bootcamp sessions, and internet."
+ticketsOffers:
+ -
+  name: "Participant"
+  price: "Free"
+  priceCurrency: ""
+  ticketsNumber: "20"
+  buyButtonLink: "https://goo.gl/forms/7sar4Q9bKuMfedu93"
+  buyButtonText: "Register now"
+  validFrom: "2017-07-08T10:00"
+  validThrough: "2017-07-14T23:59"
 
 # Footer
 socialLinks:
