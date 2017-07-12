@@ -91,7 +91,7 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "CMU-Africa Auditorium"
+eventLocationName: "CMU-Africa"
 eventLocationLink: "https://www.google.rw/maps/place/Carnegie+Mellon+University/@-1.94455,30.0874194,17z/data=!3m1!4b1!4m5!3m4!1s0x19dca694b54a0c65:0xcff0b2d62bf4606!8m2!3d-1.94455!4d30.0896135?hl=en"
 eventStreetAddress: "5th floor Telecom house, Kacyiru"
 eventAddressLocality: "Gasabo"
