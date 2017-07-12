@@ -131,7 +131,7 @@ venueFeatures: ["1 huge projector screen", "Excellent Ambience", "Fast Internet"
 # subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
 # subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
-Tickets Block
+# Tickets Block
 ticketsTitle: "Tickets"
 ticketsInfo: "Tickets grant access to all bootcamp sessions, and internet."
 ticketsOffers:
