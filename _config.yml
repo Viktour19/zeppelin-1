@@ -14,10 +14,10 @@ title: "CMU Africa Datascience club AI Bootcamp"
 email: "vakinwande[at]rwanda.cmu.edu"
 description: "The AI Bootcamp is an handons on dive into machine learning and deeplearning"
 baseurl: ""
-url: "https://viktour19.github.io"
+url: "http://aibootcamp.xyz"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "viktour19.github.io"
+googleAnalyticsSiteUrl: "http://aibootcamp.xyz"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
