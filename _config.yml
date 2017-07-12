@@ -112,7 +112,7 @@ venueSmallImage1: "ii.jpg"
 venueSmallImage2: "iii.jpg"
 venueSmallImage3: "iv.jpg"
 venueTitle: "CMU-Africa Auditorium"
-venueFeatures: ["1 huge projector screen", "Excellent Ambiecne", "Fast Internet", "Red room :)"]
+venueFeatures: ["1 huge projector screen", "Excellent Ambience", "Fast Internet"]
 
 # Tweets Feed Block
 # tweetsFeedImage: "twitter-feed.jpg"
