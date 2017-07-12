@@ -70,7 +70,7 @@ aboutTitle: "About the AI Bootcamp"
 aboutBlock:
  - {title: "Sessions", image: "conference.jpg", text: "Hands-on machine learning and deeplearning using scikit-learn and tensorflow. The sessions are geared to get you from ground to ninja in the most fun way possible!" }
  - {title: "Speakers", image: "workshop.jpg", text: "Industry and Academic experts would be around to give insights into the amazing world of AI "}
- - {title: "Demo Day", image: "hackathon.jpg", text: "After the 8 day long learning and fun, demo day is the time to show off the cool projects you'll work on. Cool prizes to be won as well!" }
+ - {title: "Demo Day", image: "hackathon.jpg", text: "After the 10 day long learning and fun, demo day is the time to show off the cool projects you'll work on. Cool prizes to be won as well!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
