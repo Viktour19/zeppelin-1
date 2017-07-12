@@ -11,10 +11,10 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "CMU Africa Datascience club AI Bootcamp"
-email: "vakinwande[at]rwanda.cmu.edu"
+email: "devfest@gdg.org.ua"
 description: "The AI Bootcamp is an handons on dive into machine learning and deeplearning"
-baseurl: "/aibootcamp"
-url: "#"
+baseurl: "/zeppelin"
+url: "https://viktour19.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "viktour19.github.io"
@@ -24,7 +24,7 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 organizerName: "CMU Africa Datascience club"
 organizerAlternateName: "CMU Africa Datascience club"
 organizerDescription: "Open and volunteer community who create exciting projects and share experience about Datascience and the future."
-organizerEmail: "vakinwande[at]rwanda.cmu.edu"
+organizerEmail: "vakinwande@rwanda.cmu.edu"
 organizerLogo: "#"
 organizerLink: "http://africa.cmu.edu"
 
@@ -53,7 +53,7 @@ navigationLinks:
 bottomNavigationLinks:
  - {link: "https://goo.gl/forms/Zkw3CVzWzRl95DLv2", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "https://goo.gl/forms/G0NLYFTq4UJLOSct1", text: "Register to participate"}
+ - {link: "https://goo.gl/forms/Zkw3CVzWzRl95DLv2", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -68,31 +68,31 @@ heroButtons:
 # About Block
 aboutTitle: "About the AI Bootcamp"
 aboutBlock:
- - {title: "Sessions", image: "conference.jpg", text: "Hands-on machine learning and deeplearning using scikit-learn and tensorflow. The sessions are geared to get you from ground to ninja in the most fun way possible!" }
+ - {title: "Sessions", image: "conference.jpg", text: "Handson machine learning and deeplearning using scikit-learn and tensorflow. The sessions are geared to get you from ground to ninja in the most fun way possible!" }
  - {title: "Speakers", image: "workshop.jpg", text: "Industry and Academic experts would be around to give insights into the amazing world of AI "}
- - {title: "Demo Day", image: "hackathon.jpg", text: "After the 8 day long learning and fun, demo day is the time to show off the cool projects you'll work on. Cool prizes to be won as well!" }
+ - {title: "Demo Day", image: "hackathon.jpg", text: "After the 8 day long learning and fun, demo day is the time to show off the cool projects you'll work on. Cool prizes to be won as well!'" }
 
 # Statistic Block
-# statisticBlockImage: "statistic.jpg"
-# statisticBlock:
+statisticBlockImage: "statistic.jpg"
+statisticBlock:
 #  - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
 #  - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
 #  - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
 #  - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
-# latestNewsTitle: "Latest news"
+latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
-# rockstarSpeakersImage: "rockstar-speakers.jpg"
-# rockstarSpeakersCount: 0
-# rockstarSpeakersTitle: "Rockstar speakers"
-# rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersCount: 0
+rockstarSpeakersTitle: "Rockstar speakers"
+rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
 eventLocationName: "CMU-Africa Auditorium"
-eventLocationLink: "https://goo.gl/maps/YxnmAzyn8VP2"
+eventLocationLink: "https://www.google.rw/maps/place/Carnegie+Mellon+University/@-1.94455,30.0874194,17z/data=!3m1!4b1!4m5!3m4!1s0x19dca694b54a0c65:0xcff0b2d62bf4606!8m2!3d-1.94455!4d30.0896135?hl=en"
 eventStreetAddress: "5th floor Telecom house, Kacyiru"
 eventAddressLocality: "Gasabo"
 eventAddressLocalityRegion: "Kigali"
