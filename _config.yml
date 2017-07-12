@@ -112,7 +112,7 @@ venueSmallImage1: "ii.jpg"
 venueSmallImage2: "iii.jpg"
 venueSmallImage3: "iv.jpg"
 venueTitle: "CMU-Africa Auditorium"
-venueFeatures: ["1 huge projector screen", "Excellent Ambiene", "Fast Internet", "Red room :)"]
+venueFeatures: ["1 huge projector screen", "Excellent Ambiecne", "Fast Internet", "Red room :)"]
 
 # Tweets Feed Block
 # tweetsFeedImage: "twitter-feed.jpg"
@@ -121,9 +121,9 @@ venueFeatures: ["1 huge projector screen", "Excellent Ambiene", "Fast Internet",
 # twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
-organizersTitle: "Organizers"
-partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+# organizersTitle: "Organizers"
+# partnersTitle: "Partners"
+# partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
 # subscribeImage: "subscribe.jpg"
@@ -183,8 +183,8 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "http://africa.cmu.edu", text: "CMU Africa"}
+ 
  -
   title: "Contacts"
   links:
