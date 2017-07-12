@@ -63,7 +63,7 @@ typeoutTextValues: '"", "Kigali", "CMU-Africa", "Datascience-club"'
 typeoutFallback: "Kigali"
 heroButtons:
  - {link: "https://goo.gl/forms/Zkw3CVzWzRl95DLv2", text: "Become a speaker"}
- - {permalink: "https://goo.gl/forms/7sar4Q9bKuMfedu93", text: "Register to participate"}
+ - {link: "https://goo.gl/forms/7sar4Q9bKuMfedu93", text: "Register to participate"}
 
 # About Block
 aboutTitle: "About the AI Bootcamp"
