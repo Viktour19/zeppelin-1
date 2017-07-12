@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "CMU Africa Datascience club AI Bootcamp"
-email: "devfest@gdg.org.ua"
+email: "vakinwande[at]rwanda.cmu.edu"
 description: "The AI Bootcamp is an handons on dive into machine learning and deeplearning"
 baseurl: "/aibootcamp"
 url: "https://viktour19.github.io"
