@@ -31,9 +31,9 @@ organizerLink: "http://africa.cmu.edu"
 # Head
 metaKeywords: "event, club, bootcamp, datascience, CMU, programming, AI, deeplearning , machine-learning , developers, kigali"
 twitterAccount: "@CMURdatascience"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+socialImageSrcGooglePlus: "/img/seo/sharing.png"
+socialImageSrcTwitter: "/img/seo/sharing.png"
+socialImageSrcFacebook: "/img/seo/sharing.png"
 
 # Documents
 c4pUrl: "#"
