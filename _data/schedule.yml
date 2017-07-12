@@ -1,50 +1,110 @@
 - 
-  date: "2014-10-24"
-  dateReadable: "October 24"
+  date: "2017-07-17"
+  dateReadable: "July 17"
   tracks: 
-    - {title: "Android", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
-    - {title: "Community", color: "#e91e63"}
+    - {title: "Hands-on session", color: "#03a9f4"}
   timeslots:
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [002, 003, 004]
-    }
-    - {
-        startTime: "11:00",
-        endTime: "11:45",
-        sessionIds: [003, 404, 004]
-    }
-    - {
-    	startTime: "12:00",
-    	endTime: "11:45",
-    	sessionIds: [307]
+    	startTime: "18:00",
+    	endTime: "20:00",
+    	sessionIds: [000]
     }
 - 
-  date: "2014-10-25"
-  dateReadable: "October 25"
+  date: "2017-07-18"
+  dateReadable: "July 18"
   tracks: 
-    - {title: "Android", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
-  timeslots: 
+    - {title: "Hands-on session", color: "#03a9f4"}
+  timeslots:
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [404, 002]
+    	startTime: "18:00",
+    	endTime: "20:00",
+    	sessionIds: [001]
     }
+- 
+  date: "2017-07-19"
+  dateReadable: "July 19"
+  tracks: 
+    - {title: "Hands-on session", color: "#03a9f4"}
+  timeslots:
     - {
-    	startTime: "11:00",
-    	endTime: "11:45",
-    	sessionIds: [002, 003]
+    	startTime: "18:00",
+    	endTime: "20:00",
+    	sessionIds: [002]
     }
+- 
+  date: "2017-07-20"
+  dateReadable: "July 20"
+  tracks: 
+    - {title: "Hands-on session", color: "#03a9f4"}
+  timeslots:
     - {
-        startTime: "13:00",
-        endTime: "13:45",
-        sessionIds: [003]
+    	startTime: "18:00",
+    	endTime: "20:00",
+    	sessionIds: [003]
     }
+- 
+  date: "2017-07-22"
+  dateReadable: "July 22"
+  tracks: 
+    - {title: "Hands-on session", color: "#03a9f4"}
+  timeslots:
     - {
-    	startTime: "14:00",
-    	endTime: "15:00",
-    	sessionIds: [503]
+    	startTime: "17:00",
+    	endTime: "20:00",
+    	sessionIds: [004]
+    }
+- 
+  date: "2017-07-23"
+  dateReadable: "July 23"
+  tracks: 
+    - {title: "Hands-on session", color: "#03a9f4"}
+  timeslots:
+    - {
+    	startTime: "18:00",
+    	endTime: "20:00",
+    	sessionIds: [005]
+    }
+- 
+  date: "2017-07-24"
+  dateReadable: "July 24"
+  tracks: 
+    - {title: "Hands-on session", color: "#03a9f4"}
+  timeslots:
+    - {
+    	startTime: "18:00",
+    	endTime: "20:00",
+    	sessionIds: [006]
+    }
+- 
+  date: "2017-07-25"
+  dateReadable: "July 25"
+  tracks: 
+    - {title: "Hands-on session", color: "#03a9f4"}
+  timeslots:
+    - {
+    	startTime: "18:00",
+    	endTime: "20:00",
+    	sessionIds: [007]
+    }
+- 
+  date: "2017-07-26"
+  dateReadable: "July 26"
+  tracks: 
+    - {title: "Hands-on session", color: "#03a9f4"}
+  timeslots:
+    - {
+    	startTime: "18:00",
+    	endTime: "20:00",
+    	sessionIds: [008]
+    }
+- 
+  date: "2017-07-27"
+  dateReadable: "July 27"
+  tracks: 
+    - {title: "Demo session", color: "#03a9f4"}
+  timeslots:
+    - {
+    	startTime: "18:00",
+    	endTime: "20:00",
+    	sessionIds: [009]
     }
