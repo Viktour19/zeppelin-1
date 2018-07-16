@@ -1,110 +1,77 @@
 - 
-  date: "2017-07-17"
-  dateReadable: "July 17"
-  tracks: 
-    - {title: "Hands-on session", color: "#03a9f4"}
-  timeslots:
-    - {
-    	startTime: "18:00",
-    	endTime: "20:00",
-    	sessionIds: [000]
-    }
-- 
-  date: "2017-07-18"
-  dateReadable: "July 18"
-  tracks: 
-    - {title: "Hands-on session", color: "#03a9f4"}
-  timeslots:
-    - {
-    	startTime: "18:00",
-    	endTime: "20:00",
-    	sessionIds: [001]
-    }
-- 
-  date: "2017-07-19"
+  date: "2018-07-19"
   dateReadable: "July 19"
   tracks: 
     - {title: "Hands-on session", color: "#03a9f4"}
   timeslots:
     - {
     	startTime: "18:00",
-    	endTime: "20:00",
-    	sessionIds: [002]
+    	endTime: "21:00",
+    	sessionIds: [000]
     }
 - 
-  date: "2017-07-20"
+  date: "2018-07-20"
   dateReadable: "July 20"
   tracks: 
     - {title: "Hands-on session", color: "#03a9f4"}
   timeslots:
     - {
     	startTime: "18:00",
-    	endTime: "20:00",
-    	sessionIds: [003]
+    	endTime: "21:00",
+    	sessionIds: [001]
     }
 - 
-  date: "2017-07-22"
-  dateReadable: "July 22"
+  date: "2018-07-21"
+  dateReadable: "July 21"
   tracks: 
     - {title: "Hands-on session", color: "#03a9f4"}
   timeslots:
     - {
-    	startTime: "17:00",
-    	endTime: "20:00",
-    	sessionIds: [004]
+    	startTime: "18:00",
+    	endTime: "21:00",
+    	sessionIds: [002]
     }
 - 
-  date: "2017-07-23"
+  date: "2018-07-23"
   dateReadable: "July 23"
   tracks: 
     - {title: "Hands-on session", color: "#03a9f4"}
   timeslots:
     - {
     	startTime: "18:00",
-    	endTime: "20:00",
-    	sessionIds: [005]
+    	endTime: "21:00",
+    	sessionIds: [003]
     }
 - 
-  date: "2017-07-24"
+  date: "2018-07-24"
   dateReadable: "July 24"
   tracks: 
     - {title: "Hands-on session", color: "#03a9f4"}
   timeslots:
     - {
-    	startTime: "18:00",
-    	endTime: "20:00",
-    	sessionIds: [006]
+    	startTime: "17:00",
+    	endTime: "21:00",
+    	sessionIds: [004]
     }
 - 
-  date: "2017-07-25"
+  date: "2018-07-25"
   dateReadable: "July 25"
   tracks: 
     - {title: "Hands-on session", color: "#03a9f4"}
   timeslots:
     - {
     	startTime: "18:00",
-    	endTime: "20:00",
-    	sessionIds: [007]
+    	endTime: "21:00",
+    	sessionIds: [005]
     }
 - 
-  date: "2017-07-26"
+  date: "2018-07-26"
   dateReadable: "July 26"
   tracks: 
-    - {title: "Hands-on session", color: "#03a9f4"}
+    - {title: "Hands-on session and speaker session", color: "#03a9f4"}
   timeslots:
     - {
     	startTime: "18:00",
-    	endTime: "20:00",
-    	sessionIds: [008]
-    }
-- 
-  date: "2017-07-27"
-  dateReadable: "July 27"
-  tracks: 
-    - {title: "Demo session", color: "#03a9f4"}
-  timeslots:
-    - {
-    	startTime: "18:00",
-    	endTime: "20:00",
-    	sessionIds: [009]
+    	endTime: "21:00",
+    	sessionIds: [006]
     }
