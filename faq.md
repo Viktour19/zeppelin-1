@@ -24,7 +24,7 @@ We would love to see you share your knowledge and also apply what you learn in y
 
 **What time is the bootcamp?**  
 
-The bootcamp is 6pm to 8pm every day of the bootcamp
+The bootcamp is 6pm to 9pm every day of the bootcamp
 
 **Can you share the event material and program**
 
@@ -53,6 +53,7 @@ Participants are expected to attend all sessions, complete all tasks given to th
 
 ######Contacts:
 
-- Victor Akinwande, [vakinwande@rwanda.cmu.edu](mailto:vakinwande@rwanda.cmu.edu)
+- Victor Akinwande, [vakinwande@africa.cmu.edu](mailto:vakinwande@africa.cmu.edu)
+- John Ibare, [jibare@africa.cmu.edu](mailto:jibare@africa.cmu.edu)
 
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">

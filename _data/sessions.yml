@@ -1,12 +1,12 @@
 -
   id: 000
-  title: "Intro to AI and a peek into the future"
+  title: "Intro to AI and a peek into the future. End to end machine learning."
   place: "Auditorium"
   service: true
-  description: "We discuss the machine learning and AI landscape and introduce the tools for the bootcamp"
+  description: "We discuss the machine learning and AI landscape, introduce the tools for the bootcamp and start with a simple ML primer."
 -
   id: 001
-  title: "End to end machine learning and classification"
+  title: "Classification"
   place: "Auditorium"
   service: true
   description: ""
@@ -37,25 +37,7 @@
   description: ""
 -
   id: 006
-  title: "More on tensorflow & Convolutional neural networks"
-  place: "Auditorium"
-  service: true
-  description: ""
--
-  id: 007
-  title: "recurrent neural networks & autoencoders"
-  place: "Auditorium"
-  service: true
-  description: ""
--
-  id: 008
-  title: "Reinforcement learning"
-  place: "Auditorium"
-  service: true
-  description: ""
--
-  id: 009
-  title: "Demo day"
+  title: "recurrent neural networks & autoencoders. Speaker session"
   place: "Auditorium"
   service: true
   description: ""

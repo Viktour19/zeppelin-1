@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "CMU Africa Datascience club AI Bootcamp"
+title: "CMU-Africa Datascience club AI Bootcamp"
 email: "vakinwande[at]rwanda.cmu.edu"
 description: "The AI Bootcamp is an handons on dive into machine learning and deeplearning"
 baseurl: ""
@@ -21,10 +21,10 @@ googleAnalyticsSiteUrl: "http://aibootcamp.xyz"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "CMU Africa Datascience club"
-organizerAlternateName: "CMU Africa Datascience club"
+organizerName: "CMU-Africa Datascience club"
+organizerAlternateName: "CMU-Africa Datascience club"
 organizerDescription: "Open and volunteer community who create exciting projects and share experience about Datascience and the future."
-organizerEmail: "vakinwande@rwanda.cmu.edu"
+organizerEmail: "vakinwande@africa.cmu.edu"
 organizerLogo: "#"
 organizerLink: "http://africa.cmu.edu"
 
@@ -51,19 +51,19 @@ navigationLinks:
 #  - {permalink: "/hackathon/", text: "Hackathon"}
 
 bottomNavigationLinks:
- - {link: "https://goo.gl/forms/Zkw3CVzWzRl95DLv2", text: "Become a speaker"}
+ - {link: "https://goo.gl/forms/H0ZGnWOPj1hiSURJ2", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "https://goo.gl/forms/7sar4Q9bKuMfedu93", text: "Register to participate"}
+ - {link: "https://goo.gl/forms/4wfhATPemqc7mRTo2", text: "Register to participate"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "AI Bootcamp <typeout> 2017"
-eventDate: "July 17 - 26, 2017"
-typeoutTextValues: '"", "Kigali", "CMU-Africa", "Datascience-club"'
+heroTitle: "AI Bootcamp <typeout> 2018"
+eventDate: "July 19 - 26, 2018"
+typeoutTextValues: '"", "Kigali", "CMU-Africa", "Datascience-club", "GDG-Kigali"'
 typeoutFallback: "Kigali"
 heroButtons:
- - {link: "https://goo.gl/forms/Zkw3CVzWzRl95DLv2", text: "Become a speaker"}
- - {link: "https://goo.gl/forms/7sar4Q9bKuMfedu93", text: "Register to participate"}
+ - {link: "https://goo.gl/forms/H0ZGnWOPj1hiSURJ2", text: "Become a speaker"}
+ - {link: "https://goo.gl/forms/4wfhATPemqc7mRTo2", text: "Register to participate"}
 
 # About Block
 aboutTitle: "About the AI Bootcamp"
@@ -98,9 +98,9 @@ eventAddressLocality: "Gasabo"
 eventAddressLocalityRegion: "Kigali"
 eventPostalCode: ""
 eventAddressCountry: "Rwanda"
-eventStartTime: "2017-07-17T18:00"
+eventStartTime: "2018-07-19T18:00"
 eventDoorTime: "18:00"
-eventEndTime: "2017-07-26T20:00"
+eventEndTime: "2018-07-26T21:00"
 eventPlaceCoordinates: "1.9445098,30.0890972"
 mapCenterCoordinates: "1.9445098,30.0890972"
 mapMobileCenterCoordinates: "1.9445098,30.0890972"
@@ -140,10 +140,10 @@ ticketsOffers:
   price: "Free"
   priceCurrency: ""
   ticketsNumber: "20"
-  buyButtonLink: "https://goo.gl/forms/7sar4Q9bKuMfedu93"
+  buyButtonLink: "https://goo.gl/forms/4wfhATPemqc7mRTo2"
   buyButtonText: "Register now"
-  validFrom: "2017-07-08T10:00"
-  validThrough: "2017-07-14T23:59"
+  validFrom: "2018-07-08T10:00"
+  validThrough: "2018-07-14T23:59"
 
 # Footer
 socialLinks:
@@ -155,12 +155,13 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://africa.cmu.edu", text: "CMU Africa"}
+   - {link: "https://africa.cmu.edu", text: "CMU-Africa"}
+   - {link: "https://www.meetup.com/GDG-Kigali/", text: "GDG-Kigali"}
  
  -
   title: "Contacts"
   links:
-   - {link: "mailto:vakinwande@rwanda.cmu.edu", text: "vakinwande[at]rwanda.cmu.edu"}
+   - {link: "mailto:vakinwande@africa.cmu.edu", text: "vakinwande[at]rwanda.cmu.edu"}
  -
   title: "FAQ"
   links:
