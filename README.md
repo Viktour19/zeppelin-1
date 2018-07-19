@@ -6,3 +6,4 @@
 
 bundle exec jekyll build 
 cp -r _site/* /var/www/aibootcamp.xyz/html/
+<!-- sudo nginx -s reload -->
